@@ -1,1 +1,1 @@
-new branch after checkout
+new branch after checkout - modified in new branch
